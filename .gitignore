@@ -1,5 +1,2 @@
 .DS_Store
-*.xlsx
-*.csv
-*.txt
 .ipynb_checkpoints/
